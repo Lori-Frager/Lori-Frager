@@ -1,12 +1,14 @@
 ## Hi there 👋
-## This is a practice file
-## Lori F
+This is a practice file
+Lori F
+
+🔭 I’m currently working on learning how to use Github
 <!--
-**Lori-Frager/Lori-Frager** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Lori-Frager/Lori-Frager** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.**
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+### 🔭 I’m currently working on learning how to use Github
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
