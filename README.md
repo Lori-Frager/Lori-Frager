@@ -1,3 +1,4 @@
+<img width="302" height="403" alt="186362310-d5c6e677-5b67-49b2-bf77-e0f41e5b1949" src="https://github.com/user-attachments/assets/91204f9b-6259-4305-8636-031efd140b9c" />
 ## Hi there 👋
 This is a practice file
 Lori F
